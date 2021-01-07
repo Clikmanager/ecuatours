@@ -1,2 +1,2 @@
-# ecuatours
+# ecuaviajes
 Tours en Ecuador
