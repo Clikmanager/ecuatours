@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<div id="slideshow">
+      <img src="/images/slideshow/bootstrap.png" alt="Bootstrap" class="slide" width="893">
+    <img src="/images/slideshow/yeoman.png" class="slide" alt="Yeoman" width="893"><img src="/images/slideshow/facebookdesign.png" class="slide" alt="Facebook Design" width="893"><img src="/images/slideshow/foundation.png" class="slide" alt="Foundation" width="893"><img src="/images/slideshow/ghtraining.png" class="slide" alt="GitHub Training" width="893"><img src="/images/slideshow/adobeos.png" class="slide" alt="Adobe Open Source" width="893"><img src="/images/slideshow/jekyllrb.png" class="slide" alt="Jekyll" width="893"><img src="/images/slideshow/electron.png" class="slide active" alt="Electron" width="893"><img src="/images/slideshow/semanticui.png" class="slide" alt="Semantic UI" width="893"></div>
